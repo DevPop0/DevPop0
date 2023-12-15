@@ -1,16 +1,17 @@
 
- ![Banner](devpop.svg)
-
-# 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100px;">
-  <img src="gifpop.gif"  width="100" height="100" />
+<div style="display: flex;  justify-content: center; align-items: center; ">
+  <img src="devpop.svg"  width="1000" height="" />
 </div>
+<div style="display: flex; gap: 10px; flex-direction: row;">
 
 
 ## Sobre Mim
-Sou um desenvolvedora em ascensão, sou criadora de conteúdo no YouTube e autora de um eBook chamado [Html para iniciantes](livro.pdf). No meu GitHub você encontrará uma combinação de projetos criativos e inspirador, caso goste de algum projeto não esqueça de dar ⭐
+Sou um desenvolvedora em ascensão, sou criadora de conteúdo no YouTube e autora de um eBook chamado [Html para iniciantes](livro.pdf). No meu GitHub você encontrará uma combinação de projetos criativos e inspirador, caso goste de algum projeto não esqueça de dar ⭐<div style="display: flex;  justify-content: center; align-items: center; height: 100px;">
+  <img src="gifpop.gif"  width="100" height="100" />
+</div>
 
 ## Habilidades Atuais
+
 <div style="display: flex; gap: 10px; flex-direction: row;">
 
    ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=e10057)
@@ -29,9 +30,9 @@ Sou um desenvolvedora em ascensão, sou criadora de conteúdo no YouTube e autor
 #
 <div style="background: linear-gradient(to right, #5a1a80, #e10057); padding: 10px;  ">
 
-- 🎥 **YouTuber:** Confira meu canal [AQUI](URL_DO_SEU_CANAL) para tutoriais, dicas e truques sobre desenvolvimento e tecnologia e <span style="color:#fad96d;">**MUITA RISADA**.</span>
+- 🎥 **YouTuber:** Confira meu canal [AQUI](https://www.youtube.com/@devpop/videos) para tutoriais, dicas e truques sobre desenvolvimento e tecnologia e <span style="color:#fad96d;">**MUITA RISADA**.</span>
 
-- 📘 **Autor de eBook:** Lancei um eBook para iniciantes. [Confira aqui!](URL_DO_SEU_EBOOK)
+- 📘 **Autor de eBook:** Lancei um eBook para iniciantes [VEJA AQUI](livro.pdf)
 
 </div>
 

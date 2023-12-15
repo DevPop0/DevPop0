@@ -32,7 +32,7 @@ Sou um desenvolvedora em ascensão, sou criadora de conteúdo no YouTube e autor
 
 - 🎥 **YouTuber:** Confira meu canal [AQUI](https://www.youtube.com/@devpop/videos) para tutoriais, dicas e truques sobre desenvolvimento e tecnologia e <span style="color:#fad96d;">**MUITA RISADA**.</span>
 
-- 📘 **Autor de eBook:** Lancei um eBook para iniciantes [VEJA AQUI](livro.pdf)
+- 📘 **eBook:** Lancei um eBook para iniciantes [VEJA AQUI](livro.pdf)
 
 </div>
 

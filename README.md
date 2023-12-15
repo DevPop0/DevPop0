@@ -6,7 +6,7 @@
 
 
 ## Sobre Mim
-Sou um desenvolvedora em ascensão, sou criadora de conteúdo no YouTube e autora de um eBook chamado [Html para iniciantes](livro.pdf). No meu GitHub você encontrará uma combinação de projetos criativos e inspirador, caso goste de algum projeto não esqueça de dar ⭐<div style="display: flex;  justify-content: center; align-items: center; height: 100px;">
+Sou uma desenvolvedora em ascensão, criadora de conteúdo no YouTube e autora de um eBook chamado [Html para iniciantes](livro.pdf). No meu GitHub você encontrará uma combinação de projetos criativos e inspirador, caso goste de algum projeto não esqueça de dar ⭐<div style="display: flex;  justify-content: center; align-items: center; height: 100px;">
   <img src="gifpop.gif"  width="100" height="100" />
 </div>
 
